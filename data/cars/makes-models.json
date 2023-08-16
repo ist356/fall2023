@@ -1,0 +1,130 @@
+{
+  "vehicles": [
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mpg": 33
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "mpg": 36
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2018,
+      "mpg": 30
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2021,
+      "mpg": 25
+    },
+    {
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2017,
+      "mpg": 29
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2016,
+      "mpg": 31
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2020,
+      "mpg": 28
+    },
+    {
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2019,
+      "mpg": 34
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2017,
+      "mpg": 32
+    },
+    {
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2020,
+      "mpg": 27
+    },
+    {
+      "make": "Toyota",
+      "model": "Rav4",
+      "year": 2021,
+      "mpg": 35
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2018,
+      "mpg": 33
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "year": 2019,
+      "mpg": 32
+    },
+    {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2021,
+      "mpg": 23
+    },
+    {
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2017,
+      "mpg": 30
+    },
+    {
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2016,
+      "mpg": 30
+    },
+    {
+      "make": "Mazda",
+      "model": "3",
+      "year": 2020,
+      "mpg": 30
+    },
+    {
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2019,
+      "mpg": 31
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": 2017,
+      "mpg": 29
+    },
+    {
+      "make": "Subaru",
+      "model": "Forester",
+      "year": 2020,
+      "mpg": 29
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2021,
+      "mpg": 36
+    }
+  ]
+}
